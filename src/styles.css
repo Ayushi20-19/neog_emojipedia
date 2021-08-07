@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  height: 100vh;
+  background: linear-gradient(to right, #c2ffd9, #ffdab9);
+}
+.App h1 {
+  padding: 1rem 0;
+}
+.App h3 {
+  margin: 1rem;
+}
